@@ -33,3 +33,7 @@ func(22 , "Omri")
 function func02() {
     console.log("hello02")
 }
+
+function func03() {
+    console.log("hello03")
+}
