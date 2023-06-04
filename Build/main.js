@@ -18,6 +18,12 @@ f = "hello";
 f = 250;
 //-------------------------------------
 function func(age, name) {
-    console.log(name + " is " + age + " year old");
+    console.log(name + " is " + age + " years old");
 }
 func(22, "Omri");
+function func02() {
+    console.log("hello02");
+}
+function func03() {
+    console.log("hello03");
+}
