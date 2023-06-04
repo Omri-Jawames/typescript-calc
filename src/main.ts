@@ -28,3 +28,8 @@ function func(age: number, name: string ){
 }
 
 func(22 , "Omri")
+
+
+function func02() {
+    console.log("hello02")
+}
